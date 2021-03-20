@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Singleton", "Singleton\Singleton.vcxproj", "{4AE3FB32-1A6E-4C3B-8E71-A6A6E3EE5CF8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Factory method", "Factory method\Factory method.vcxproj", "{173C8DE4-093A-431F-9EC7-6AFB4944905C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{4AE3FB32-1A6E-4C3B-8E71-A6A6E3EE5CF8}.Release|x64.Build.0 = Release|x64
 		{4AE3FB32-1A6E-4C3B-8E71-A6A6E3EE5CF8}.Release|x86.ActiveCfg = Release|Win32
 		{4AE3FB32-1A6E-4C3B-8E71-A6A6E3EE5CF8}.Release|x86.Build.0 = Release|Win32
+		{173C8DE4-093A-431F-9EC7-6AFB4944905C}.Debug|x64.ActiveCfg = Debug|x64
+		{173C8DE4-093A-431F-9EC7-6AFB4944905C}.Debug|x64.Build.0 = Debug|x64
+		{173C8DE4-093A-431F-9EC7-6AFB4944905C}.Debug|x86.ActiveCfg = Debug|Win32
+		{173C8DE4-093A-431F-9EC7-6AFB4944905C}.Debug|x86.Build.0 = Debug|Win32
+		{173C8DE4-093A-431F-9EC7-6AFB4944905C}.Release|x64.ActiveCfg = Release|x64
+		{173C8DE4-093A-431F-9EC7-6AFB4944905C}.Release|x64.Build.0 = Release|x64
+		{173C8DE4-093A-431F-9EC7-6AFB4944905C}.Release|x86.ActiveCfg = Release|Win32
+		{173C8DE4-093A-431F-9EC7-6AFB4944905C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
