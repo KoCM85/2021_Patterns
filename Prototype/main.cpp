@@ -21,6 +21,14 @@ int main([[maybe_unused]] int argc, [[maybe_unused]] char* argv[]) {
 			value->something();
 			std::cout << '\n';
 		}
+		
+		std::cout << '\n';
+		male male_1(44);
+		male_1.clone()->something();
+		std::cout << '\n';
+
+		female female_1(20);
+		female_1.clone()->something();
 	}
 
 
