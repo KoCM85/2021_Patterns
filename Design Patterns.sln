@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Proxy", "Proxy\Proxy.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chain of responsibility", "Chain of responsibility\Chain of responsibility.vcxproj", "{CEA5A6FB-2F3C-42FC-8754-0C273EE27EDD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Command", "Command\Command.vcxproj", "{374F2000-9D0C-4B29-9EE9-B4E3629CA37C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{CEA5A6FB-2F3C-42FC-8754-0C273EE27EDD}.Release|x64.Build.0 = Release|x64
 		{CEA5A6FB-2F3C-42FC-8754-0C273EE27EDD}.Release|x86.ActiveCfg = Release|Win32
 		{CEA5A6FB-2F3C-42FC-8754-0C273EE27EDD}.Release|x86.Build.0 = Release|Win32
+		{374F2000-9D0C-4B29-9EE9-B4E3629CA37C}.Debug|x64.ActiveCfg = Debug|x64
+		{374F2000-9D0C-4B29-9EE9-B4E3629CA37C}.Debug|x64.Build.0 = Debug|x64
+		{374F2000-9D0C-4B29-9EE9-B4E3629CA37C}.Debug|x86.ActiveCfg = Debug|Win32
+		{374F2000-9D0C-4B29-9EE9-B4E3629CA37C}.Debug|x86.Build.0 = Debug|Win32
+		{374F2000-9D0C-4B29-9EE9-B4E3629CA37C}.Release|x64.ActiveCfg = Release|x64
+		{374F2000-9D0C-4B29-9EE9-B4E3629CA37C}.Release|x64.Build.0 = Release|x64
+		{374F2000-9D0C-4B29-9EE9-B4E3629CA37C}.Release|x86.ActiveCfg = Release|Win32
+		{374F2000-9D0C-4B29-9EE9-B4E3629CA37C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
